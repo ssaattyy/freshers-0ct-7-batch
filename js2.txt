@@ -1,0 +1,2 @@
+this is js2 file
+adds
